@@ -10,9 +10,9 @@
 
     ![Find](find.png)
 
--   [ForEach](foreach.js)
+-   [ForEach](forEach.js)
 
-    ![ForEach](foreach.png)
+    ![ForEach](forEach.png)
 
 -   [Map](map.js)
 
